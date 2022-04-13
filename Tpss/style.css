@@ -17,7 +17,7 @@ body {
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-	background: black no-repeat fixed center;
+	background: white no-repeat fixed center;
 	background-size: cover;
 }
 
@@ -46,7 +46,7 @@ body {
 	font-size: 30px;
 	background-color: #caf76a;
 	outline: none;
-	color: grey;
+	color: black;
 	text-decoration: none;
 }
 
